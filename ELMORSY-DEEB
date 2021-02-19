@@ -100,6 +100,8 @@ def show_program():
 	print '''
                     %sINFORMATION%s
  ------------------------------------------------------
+     
+    Author     abdallaelmorsy
     Name       Abdalla elmorsy
     CodeName   D3b2y
     version    full version
